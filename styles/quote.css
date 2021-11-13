@@ -1,0 +1,16 @@
+.quote {
+  background-color: #8ee4af;
+  padding: 6rem 12rem;
+}
+
+.quote i{
+  font-size: 2.25rem;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.quote p {
+  text-align: right;
+  font-weight: 600;
+  font-size: 1.25rem;
+}

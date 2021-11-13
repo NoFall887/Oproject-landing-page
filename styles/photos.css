@@ -1,0 +1,27 @@
+.photos {
+  text-align: center;
+  background-color: #edf5e1;
+  padding: 3rem 0 7rem 0;
+}
+
+h2 {
+  margin-bottom: 3rem;
+  font-size: 2.25rem;
+}
+
+.photos-container {
+  padding: 0 12rem;
+  gap: 3rem;
+}
+
+.photo-item {
+  flex: 1;
+}
+
+.photos img {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  border: 5px solid #379683;
+  border-radius: 10px;
+}

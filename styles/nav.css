@@ -1,0 +1,29 @@
+header {
+  background-color: #5cdb95;
+  padding: 0 7rem;
+  align-items: center;
+}
+
+nav {
+  margin-left: auto;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul a {
+  display: block;
+  color: #05386b;
+  text-decoration: none;
+  padding: 1rem 1rem;
+  font-size: 1.125rem;
+}
+nav ul a:hover {
+  background-color: #05386b;
+  color: #edf5e1;
+}
+.logo {
+  font-weight: 700;
+  font-size: 1.75rem;
+}

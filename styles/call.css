@@ -1,0 +1,39 @@
+.call-to-action {
+  background-color: whitesmoke;
+  padding: 6rem 0;
+}
+
+.call-to-action>div {
+  padding: 4rem 7rem;
+  background-color: #379683;
+  width: 80%;
+  border-radius: 1rem;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.call-to-action p {
+  color: #edf5e1;
+}
+
+.call-to-action strong {
+  color: #edf5e1;
+  font-size: 1.5rem;
+}
+
+.call-to-action button {
+  padding: 0.25rem 2rem;
+  border: 2px solid #edf5e1;
+  border-radius: 8px;
+  background-color: #379683;
+  color: #edf5e1;
+  font-weight: 500;
+  font-size: 1.125rem;
+}
+
+.call-to-action button:hover {
+  background-color: #edf5e1;
+  color: #379683;
+  cursor: pointer;
+}
